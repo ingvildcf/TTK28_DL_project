@@ -50,4 +50,4 @@ def main():
     print('Test loss:', score[0])
     print('Test accuracy:', score[1])
 
-    
+main()
