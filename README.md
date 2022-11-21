@@ -1,1 +1,1 @@
-# ttk28_nn_project
+# TTK28_DL_project
